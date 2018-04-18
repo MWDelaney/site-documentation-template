@@ -1,5 +1,5 @@
 # YourWebsite.com
-A breif description of the site.
+A brief description of the site.
 
 ## Content Management System
 - [x] WordPress
